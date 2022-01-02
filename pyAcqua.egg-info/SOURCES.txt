@@ -1,0 +1,8 @@
+setup.py
+pyAcqua/__init__.py
+pyAcqua/driver.py
+pyAcqua.egg-info/PKG-INFO
+pyAcqua.egg-info/SOURCES.txt
+pyAcqua.egg-info/dependency_links.txt
+pyAcqua.egg-info/entry_points.txt
+pyAcqua.egg-info/top_level.txt
